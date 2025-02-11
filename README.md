@@ -6,7 +6,7 @@
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQyMDNkZDA0MTAwNzI3YTA1N2M0ZjE2MTNkODUyYzUyMTk3MDFiYyZjdD1z/kBrSH5C4ps9nyNDo4S/giphy.gif" width="230">
 
-- 📚 I am currently studying a degree in IT Engineering.
+- 📚 I am an IT Engineer.
 - 🌱 I grew up in Ecuador :ecuador:
 - 😄 I'm always trying to learn new things
 - 🎲 Other Interests: Videogames 👾, Technology 📱 and... <b>CATS</b>! 😺
